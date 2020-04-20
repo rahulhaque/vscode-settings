@@ -33,6 +33,7 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) * - Autocompletes npm modules in import statements.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) * - Autocompletes project directories and filenames.
 - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) * - Self explanatory.
+- [Current File Path](https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path) * - Show the currently open file location in status bar.
 
 
 
