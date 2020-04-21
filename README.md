@@ -33,7 +33,8 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) * - Autocompletes npm modules in import statements.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) * - Autocompletes project directories and filenames.
 - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) * - Self explanatory.
-- [Current File Path](https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path) * - Show the currently open file location in status bar.
+- [Current File Path](https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path) - Show the currently open file location in status bar.
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) * - Great for copy/pasting file with renaming.
 
 
 
@@ -68,6 +69,12 @@ Here is the current settings configuration I am using and comfortable with. Upda
         "**/.vscode": true
     },
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.openFoldersInNewWindow": "on",
+    "window.openFilesInNewWindow": "default",
+    "currentFilePath.defaultPathStartsFrom": "workSpace",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true
 }
 ```
 
