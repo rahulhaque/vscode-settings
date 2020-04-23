@@ -71,10 +71,10 @@ Here is the current settings configuration I am using and comfortable with. Upda
     "javascript.updateImportsOnFileMove.enabled": "always",
     "window.openFoldersInNewWindow": "on",
     "window.openFilesInNewWindow": "default",
-    "currentFilePath.defaultPathStartsFrom": "workSpace",
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "path-intellisense.showHiddenFiles": true,
 }
 ```
 
