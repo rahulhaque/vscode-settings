@@ -24,17 +24,32 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 
 ## Extensions
 
+### Universal
+
 - [IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) * - Being a user of PHPStorm, WebStorm and PyCharm, this extension is a must.
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) * - Side by side markdown (*.md) file view and edit.
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) * - Is a must have.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) * - Autocompletes project directories and filenames.
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) * - Great for copy/pasting file with renaming.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)* - Checks typing errors and suggests fix.
+- [Current File Path](https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path) - Show the currently open file location in status bar.
+
+
+
+### JavaScript & React
+
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) * - See imported npm package size.
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) * - Self explanatory.
-- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) * - Two packages at one.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) * - Autocompletes npm modules in import statements.
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) * - Autocompletes project directories and filenames.
 - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) * - Self explanatory.
-- [Current File Path](https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path) - Show the currently open file location in status bar.
-- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) * - Great for copy/pasting file with renaming.
+
+
+
+### PHP & Laravel & HTML & CSS
+
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) * - PHP and HTML autocomplete and format mix support.
+- [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Easily access artisan commands from vscode command.
+- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) * - Two packages at one.
 
 
 
