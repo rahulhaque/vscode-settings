@@ -7,10 +7,11 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 ## Themes
 
 - [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode&ssr=false) * - Comes with themes and icons.
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) 
 
 
 
-## Icons
+## File Icon Themes
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) *
 
