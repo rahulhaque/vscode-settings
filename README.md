@@ -1,19 +1,19 @@
 # VS Code Preferences
 
-Here is the list of my personal settings, extensions, themes, icons and fonts for VS Code. The list is bound to grow with the amount of time I spent with VS Code. Asterisks (*) items are currently being used and enabled.
+Here is the list of my personal settings, extensions, themes, icons and fonts for VS Code. The list is bound to grow with the amount of time I spent with VS Code. Asterisks (*) items are currently being used and enabled in my workspace.
 
 
 
 ## Themes
 
 - [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode&ssr=false) * - Comes with themes and icons.
-- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) 
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - A good dark theme.
 
 
 
 ## File Icon Themes
 
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) *
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) * - Theme for vscode sidebar icons.
 
 
 
@@ -33,6 +33,8 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) * - Autocompletes project directories and filenames.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) * - Great for copy/pasting file with renaming.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)* - Checks typing errors and suggests fix.
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) * - Highlights opening and closing tags on select.
+- [Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) * - Highlights code block area.
 - [Current File Path](https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path) - Show the currently open file location in status bar.
 
 
@@ -42,7 +44,8 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) * - See imported npm package size.
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) * - Self explanatory.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) * - Autocompletes npm modules in import statements.
-- [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) * - Self explanatory.
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) * - All in one useful snippets.
+- [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) - Self explanatory.
 
 
 
@@ -50,7 +53,7 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) * - PHP and HTML autocomplete and format mix support.
 - [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Easily access artisan commands from vscode command.
-- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) * - Two packages at one.
+- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) * - Two packages in one.
 
 
 
