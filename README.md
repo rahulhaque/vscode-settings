@@ -35,6 +35,7 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)* - Checks typing errors and suggests fix.
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) * - Highlights opening and closing tags on select.
 - [Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) * - Highlights code block area.
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) * - Highlights color code block.
 - [Current File Path](https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path) - Show the currently open file location in status bar.
 
 
