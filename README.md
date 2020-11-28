@@ -46,7 +46,7 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) * - Self explanatory.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) * - Autocompletes npm modules in import statements.
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) * - All in one useful snippets.
-- [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) - Self explanatory.
+- [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) - Some easy to remember snippets for files.
 
 
 
@@ -55,6 +55,11 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) * - PHP and HTML autocomplete and format mix support.
 - [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Easily access artisan commands from vscode command.
 - [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) * - Two packages in one.
+- [Laravel Goto View](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view) * - Go to blade view from controllers.
+- [Laravel Goto Controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller) * - Go to controller from routes file.
+- [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) * - Better intellisense for laravel projects.
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) * - Laravel .env file support.
+- [Laravel Blade](https://marketplace.visualstudio.com/items?itemName=amirmarmul.laravel-blade-vscode) * - Blade Snippets, Syntax Highlighting and Formatting for VS Code.
 
 
 
