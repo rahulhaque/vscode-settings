@@ -60,6 +60,7 @@ Here is the list of my personal settings, extensions, themes, icons and fonts fo
 - [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) * - Better intellisense for laravel projects.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) * - Laravel .env file support.
 - [Laravel Blade](https://marketplace.visualstudio.com/items?itemName=amirmarmul.laravel-blade-vscode) * - Blade Snippets, Syntax Highlighting and Formatting for VS Code.
+- [Laravel Blade Spacer](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacer) * - Automatically add spaces in Laravel Blade template tags.
 
 
 
